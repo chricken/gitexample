@@ -1,0 +1,94 @@
+{
+  "personen": [
+    {
+      "id": 1,
+      "vorname": "Max",
+      "nachname": "Mustermann",
+      "alter": 35,
+      "email": "max.mustermann@email.de",
+      "telefon": "+49 123 456789",
+      "adresse": {
+        "strasse": "Musterstraße 123",
+        "stadt": "München",
+        "postleitzahl": "80331",
+        "land": "Deutschland"
+      },
+      "beruf": "Software-Entwickler",
+      "gehalt": 65000,
+      "hobbys": ["Programmieren", "Lesen", "Wandern"]
+    },
+    {
+      "id": 2,
+      "vorname": "Anna",
+      "nachname": "Schmidt",
+      "alter": 28,
+      "email": "anna.schmidt@email.de",
+      "telefon": "+49 987 654321",
+      "adresse": {
+        "strasse": "Hauptstraße 45",
+        "stadt": "Berlin",
+        "postleitzahl": "10115",
+        "land": "Deutschland"
+      },
+      "beruf": "Grafikdesignerin",
+      "gehalt": 48000,
+      "hobbys": ["Zeichnen", "Fotografie", "Reisen"]
+    },
+    {
+      "id": 3,
+      "vorname": "Thomas",
+      "nachname": "Weber",
+      "alter": 42,
+      "email": "thomas.weber@email.de",
+      "telefon": "+49 555 123456",
+      "adresse": {
+        "strasse": "Kirchgasse 17",
+        "stadt": "Hamburg",
+        "postleitzahl": "20095",
+        "land": "Deutschland"
+      },
+      "beruf": "Projektmanager",
+      "gehalt": 72000,
+      "hobbys": ["Fußball", "Kochen", "Musik"]
+    },
+    {
+      "id": 4,
+      "vorname": "Sarah",
+      "nachname": "Müller",
+      "alter": 31,
+      "email": "sarah.mueller@email.de",
+      "telefon": "+49 777 987654",
+      "adresse": {
+        "strasse": "Rosenweg 8",
+        "stadt": "Köln",
+        "postleitzahl": "50667",
+        "land": "Deutschland"
+      },
+      "beruf": "Marketing-Managerin",
+      "gehalt": 58000,
+      "hobbys": ["Yoga", "Lesen", "Gartenarbeit"]
+    },
+    {
+      "id": 5,
+      "vorname": "Michael",
+      "nachname": "Fischer",
+      "alter": 39,
+      "email": "michael.fischer@email.de",
+      "telefon": "+49 444 567890",
+      "adresse": {
+        "strasse": "Bahnhofstraße 92",
+        "stadt": "Frankfurt am Main",
+        "postleitzahl": "60329",
+        "land": "Deutschland"
+      },
+      "beruf": "Datenanalyst",
+      "gehalt": 61000,
+      "hobbys": ["Schach", "Technologie", "Filme"]
+    }
+  ],
+  "metadaten": {
+    "anzahl_personen": 5,
+    "erstellt_am": "2025-09-19",
+    "version": "1.0"
+  }
+}

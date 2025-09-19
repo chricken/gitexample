@@ -1,0 +1,16 @@
+{
+  "staedte": [
+    {
+      "id": 1,
+      "name": "Berlin",
+      "bundesland": "Berlin",
+      "land": "Deutschland",
+      "einwohner": 3769495,
+      "flaeche_km2": 891.8,
+      "postleitzahl_bereich": ["10115", "14199"],
+      "koordinaten": { "breite": 52.520008, "laenge": 13.404954 },
+      "telefonvorwahl": ["030"],
+      "sehenswuerdigkeiten": ["Brandenburger Tor", "Reichstag", "Fernsehturm"]
+    }
+  ]
+}
